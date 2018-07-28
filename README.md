@@ -10,3 +10,6 @@ Schematic:
 ![LED ring schematic](led_ring_schematic.png "LED ring schematic")
 Assembled:
 ![LED ring assembled](led_ring_final.jpg "LED ring assembled")
+
+
+[![Analytics](https://ga-beacon.appspot.com/UA-122950438-1/LedRing)](https://github.com/igrigorik/ga-beacon)
